@@ -13,6 +13,6 @@ Este é um aplicativo de organização pessoal que ajuda a planejar e acompanhar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/personal_organizer_app.git
+   git clone https://github.com/MARCOZSPAULO/personal_organizer_app.git
    cd personal_organizer_app
    ```
